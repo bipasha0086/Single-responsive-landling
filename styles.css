@@ -1,6 +1,4 @@
-/* ===================================
-   CSS Reset & Base Styles
-   =================================== */
+
 
 * {
     margin: 0;
@@ -1262,9 +1260,7 @@ textarea.form-input {
     }
 }
 
-/* ===================================
-   Mobile Menu Styles
-   =================================== */
+
 
 @media (max-width: 767px) {
     .nav-toggle {
@@ -1321,9 +1317,7 @@ textarea.form-input {
     }
 }
 
-/* ===================================
-   Utility Classes
-   =================================== */
+
 
 .text-center {
     text-align: center;
@@ -1337,9 +1331,7 @@ textarea.form-input {
     margin-top: 1rem;
 }
 
-/* ===================================
-   Print Styles
-   =================================== */
+
 
 @media print {
     .navbar,
