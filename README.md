@@ -261,8 +261,4 @@ For questions or issues:
 - Check browser console for errors
 - Ensure all files are in the same directory
 
----
 
-**Built with ❤️ using HTML, CSS, and JavaScript**
-
-*Last Updated: February 2026*
